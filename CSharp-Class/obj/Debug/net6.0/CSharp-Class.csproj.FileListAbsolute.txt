@@ -1,0 +1,15 @@
+/Users/betul/Desktop/CSharp-Class/bin/Debug/net6.0/CSharp-Class
+/Users/betul/Desktop/CSharp-Class/bin/Debug/net6.0/CSharp-Class.deps.json
+/Users/betul/Desktop/CSharp-Class/bin/Debug/net6.0/CSharp-Class.runtimeconfig.json
+/Users/betul/Desktop/CSharp-Class/bin/Debug/net6.0/CSharp-Class.dll
+/Users/betul/Desktop/CSharp-Class/bin/Debug/net6.0/CSharp-Class.pdb
+/Users/betul/Desktop/CSharp-Class/obj/Debug/net6.0/CSharp-Class.csproj.AssemblyReference.cache
+/Users/betul/Desktop/CSharp-Class/obj/Debug/net6.0/CSharp-Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/betul/Desktop/CSharp-Class/obj/Debug/net6.0/CSharp-Class.AssemblyInfoInputs.cache
+/Users/betul/Desktop/CSharp-Class/obj/Debug/net6.0/CSharp-Class.AssemblyInfo.cs
+/Users/betul/Desktop/CSharp-Class/obj/Debug/net6.0/CSharp-Class.csproj.CoreCompileInputs.cache
+/Users/betul/Desktop/CSharp-Class/obj/Debug/net6.0/CSharp-Class.dll
+/Users/betul/Desktop/CSharp-Class/obj/Debug/net6.0/refint/CSharp-Class.dll
+/Users/betul/Desktop/CSharp-Class/obj/Debug/net6.0/CSharp-Class.pdb
+/Users/betul/Desktop/CSharp-Class/obj/Debug/net6.0/CSharp-Class.genruntimeconfig.cache
+/Users/betul/Desktop/CSharp-Class/obj/Debug/net6.0/ref/CSharp-Class.dll
